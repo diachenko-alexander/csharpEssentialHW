@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task2
 {
@@ -33,11 +29,12 @@ namespace Task2
             if (operation == 1)
             {
                 Console.WriteLine(conv.ConvertToGrn(ammount, currency));
-            } else if (operation == 2)
+            }
+            else if (operation == 2)
             {
                 Console.WriteLine(conv.ConvertGrnTo(ammount, currency));
             }
-            
+
         }
     }
 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task2
 {
@@ -19,25 +15,26 @@ namespace Task2
             this.rub = rub;
         }
 
-        public double ConvertGrnTo (double grnAmmount, string destinationCurrency)
+        public double ConvertGrnTo(double grnAmmount, string destinationCurrency)
         {
             double userCurrency = GetUserCurrency(destinationCurrency);
             if (userCurrency <= 0)
             {
                 Console.WriteLine($"Currency mast be greater than 0");
                 return 0;
-            } else
+            }
+            else
             {
                 return grnAmmount / userCurrency;
-            }          
-        } 
+            }
+        }
 
-        public double ConvertToGrn (double currencyAmmount, string destinationCurrency)
+        public double ConvertToGrn(double currencyAmmount, string destinationCurrency)
         {
             return currencyAmmount * GetUserCurrency(destinationCurrency);
         }
 
-        private double GetUserCurrency (string userInput)
+        private double GetUserCurrency(string userInput)
         {
             double result = 0;
             switch (userInput.ToLower())
