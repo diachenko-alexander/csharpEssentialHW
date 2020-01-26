@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{280E0CA4-9917-463A-8ECE-1AD66AD7582C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Document", "..\..\..\..\Downloads\Lessons\Esential\csharp-essential-materials\001_Classes\001_Classes\Classes9\012_Document.csproj", "{2C9348BF-4343-419A-BA45-4AE540881E94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalTask", "Classes9\AdditionalTask.csproj", "{2C9348BF-4343-419A-BA45-4AE540881E94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
