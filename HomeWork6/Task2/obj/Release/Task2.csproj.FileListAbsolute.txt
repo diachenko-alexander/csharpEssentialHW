@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork6\Task2\bin\Release\Task2.exe.config
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork6\Task2\bin\Release\Task2.exe
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork6\Task2\bin\Release\Task2.pdb
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork6\Task2\obj\Release\Task2.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork6\Task2\obj\Release\Task2.exe
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork6\Task2\obj\Release\Task2.pdb
