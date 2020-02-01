@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{9F9B63D3-BFCC-4C21-A982-11A5AF63ADE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{A0BEE422-3349-41BB-8CBD-C0C1EF068040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalTask", "AdditionalTask\AdditionalTask.csproj", "{941A7F90-CAEB-45EC-BA92-9A96A560A9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9B63D3-BFCC-4C21-A982-11A5AF63ADE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9B63D3-BFCC-4C21-A982-11A5AF63ADE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9B63D3-BFCC-4C21-A982-11A5AF63ADE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9B63D3-BFCC-4C21-A982-11A5AF63ADE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BEE422-3349-41BB-8CBD-C0C1EF068040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BEE422-3349-41BB-8CBD-C0C1EF068040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BEE422-3349-41BB-8CBD-C0C1EF068040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BEE422-3349-41BB-8CBD-C0C1EF068040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941A7F90-CAEB-45EC-BA92-9A96A560A9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941A7F90-CAEB-45EC-BA92-9A96A560A9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941A7F90-CAEB-45EC-BA92-9A96A560A9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941A7F90-CAEB-45EC-BA92-9A96A560A9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C53D93-6D07-4333-B4D6-A2A4EED8EB72}
+	EndGlobalSection
+EndGlobal
