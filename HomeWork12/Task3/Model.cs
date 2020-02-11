@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace Task3
 {
-    public delegate void TimerTick();
+    public delegate void TimerTick(object sender, EventArgs e);
     class Model
     {
         private uint second;
@@ -29,19 +29,25 @@ namespace Task3
 
         public void TimerStart()
         {
-           // timer = new DispatcherTimer();  
-            //timer.Tick += new EventHandler(timerTick);
-            //timer.Interval = new TimeSpan(0, 0, 0, 1);
-            timer.Start();
+           timer.Start();
+        }
+
+        public void TimerStop()
+        {
+            timer.Stop();
+        }
+
+        public void TimerReset()
+        {
+            second = 0;
         }
 
         public void timerTick(object sender, EventArgs e)
         {
             second++;
+            TimerTick.Invoke(sender, e);
         }
 
-
-
-
+       
     }
 }

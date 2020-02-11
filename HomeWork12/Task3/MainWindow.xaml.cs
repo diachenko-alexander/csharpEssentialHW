@@ -24,20 +24,11 @@ namespace Task3
         {
             InitializeComponent();
             new Presenter(this);
-        }
-
-
-        
-        
-
+        }        
         public event EventHandler StartTimer = null;
-
+        public event EventHandler StopTimer = null;
+        public event EventHandler ResetTimer = null;
         
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
-
         private void StartButton_Click(object sender, RoutedEventArgs e)
         {
             StartTimer.Invoke(sender, e);
@@ -45,17 +36,12 @@ namespace Task3
 
         private void StopButton_Click(object sender, RoutedEventArgs e)
         {
-
+            StopTimer.Invoke(sender, e);
         }
 
         private void ClearButton_Click(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void ProgressBar_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
-        {
-
-        }
+            ResetTimer.Invoke(sender, e);
+        }               
     }
 }
