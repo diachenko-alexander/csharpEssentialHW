@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4_MarkupCompile.cache
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4_MarkupCompile.lref
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\bin\Debug\Task4.exe.config
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\bin\Debug\Task4.exe
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\bin\Debug\Task4.pdb
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4.g.resources
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4.exe
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task4\obj\Debug\Task4.pdb

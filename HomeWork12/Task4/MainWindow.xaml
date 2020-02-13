@@ -7,14 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox Name="TextBoxA" HorizontalAlignment="Left" Height="23" Margin="68,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBoxA_TextChanged"/>
+        <TextBox Name="TextBoxA" HorizontalAlignment="Left" Height="23" Margin="68,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
         <TextBox Name="TextBoxB" HorizontalAlignment="Left" Height="23" Margin="302,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.108,0.368"/>
-        <TextBox Name="TextBoxResult" HorizontalAlignment="Left" Height="23" Margin="531,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="TextBoxResult" HorizontalAlignment="Left" Height="23" Margin="531,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230"/>
         <Button Name="ButtonAdd" Content="+" HorizontalAlignment="Left" Margin="81,176,0,0" VerticalAlignment="Top" Width="75" Click="ButtonAdd_Click"/>
         <Button Name="ButtonSubtract" Content="-" HorizontalAlignment="Left" Margin="221,176,0,0" VerticalAlignment="Top" Width="75" Click="ButtonSubtract_Click"/>
         <Button Name="ButtonMultiply" Content="*" HorizontalAlignment="Left" Margin="350,176,0,0" VerticalAlignment="Top" Width="75" Click="ButtonMultiply_Click"/>
         <Button Name="ButtonDivision" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="497,176,0,0" Click="ButtonDivision_Click"/>
-        <Button Name="ButtonResult" Content="=" HorizontalAlignment="Left" Margin="116,267,0,0" VerticalAlignment="Top" Width="75" Click="ButtonResult_Click"/>
 
     </Grid>
 </Window>
