@@ -12,3 +12,17 @@ C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.Pr
 C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
 C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.exe
 C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.pdb
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\bin\Debug\Task3.exe.config
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\bin\Debug\Task3.exe
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\bin\Debug\Task3.pdb
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\MainWindow.g.cs
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\App.g.cs
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3_MarkupCompile.cache
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3_MarkupCompile.lref
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\MainWindow.baml
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.g.resources
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.exe
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork12\Task3\obj\Debug\Task3.pdb
