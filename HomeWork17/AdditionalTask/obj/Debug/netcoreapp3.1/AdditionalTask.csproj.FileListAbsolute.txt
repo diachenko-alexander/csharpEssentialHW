@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.exe
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.deps.json
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.runtimeconfig.json
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.dll
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\bin\Debug\netcoreapp3.1\AdditionalTask.pdb
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.AssemblyInfo.cs
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.dll
+C:\Users\Alex\source\repos\csharpEssentialHW\HomeWork17\AdditionalTask\obj\Debug\netcoreapp3.1\AdditionalTask.pdb
