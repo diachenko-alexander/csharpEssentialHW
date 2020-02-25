@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task2
 {
@@ -24,12 +22,11 @@ namespace Task2
 
     class Program
     {
-        
+
 
         static void Main(string[] args)
         {
-            var Cars = new List<Car>
-        {
+            var cars = new List<Car>  {
             new Car {CarName = "Dacia", Model = "Logan", CreateDate = DateTime.Parse("01/01/2008"), Color = "Grey"},
             new Car {CarName = "Renault", Model = "Laguna", CreateDate = DateTime.Parse("01/01/2010"), Color = "Blue"},
             new Car {CarName = "Ferrary", Model = "F1", CreateDate = DateTime.Parse("01/01/2015"), Color = "Red"},
@@ -37,18 +34,18 @@ namespace Task2
             new Car {CarName = "Opel", Model = "Insignia", CreateDate = DateTime.Parse("01/01/2011"), Color = "Silver"}
         };
 
-            var Clients = new List<Client>
+            var clients = new List<Client>
             {
-                new Client {Name = "Alex", CarModel = "Logan", PhoneNumber = ""},
-                new Client {Name = "Frenk", CarModel = "Laguna", PhoneNumber = ""},
-                new Client {Name = "Oleg", CarModel = "Laguna", PhoneNumber = ""},
-                new Client {Name = "Ivan", CarModel = "F1", PhoneNumber = ""},
-                new Client {Name = "Serg", CarModel = "ModelS", PhoneNumber = ""},
-                new Client {Name = "David", CarModel = "Insignia", PhoneNumber = ""},
+                new Client {Name = "Alex", CarModel = "Logan", PhoneNumber = "123"},
+                new Client {Name = "Frenk", CarModel = "Laguna", PhoneNumber = "456"},
+                new Client {Name = "Oleg", CarModel = "Laguna", PhoneNumber = "789"},
+                new Client {Name = "Ivan", CarModel = "F1", PhoneNumber = "1012"},
+                new Client {Name = "Serg", CarModel = "ModelS", PhoneNumber = "1112"},
+                new Client {Name = "David", CarModel = "Insignia", PhoneNumber = "1113"},
             };
 
-            var query = from car in Cars
-                        join client in Clients
+            var query = from car in cars
+                        join client in clients
                         on car.Model equals client.CarModel
                         where client.Name == "Alex"
                         select new
@@ -60,7 +57,24 @@ namespace Task2
                             CarDate = car.CreateDate,
                             CarColor = car.Color,
                         };
+            var query2 = cars.Join(clients,
+                           car => car.Model,
+                           client => client.CarModel,
+                           (car, cli) => new {
+                               ClientName = cli.Name,
+                               ClientPhone = cli.PhoneNumber,
+                               CarName = car.CarName,
+                               CarModel = car.Model,
+                               CarDate = car.CreateDate,
+                               CarColor = car.Color,
+                           }).Where(cli => cli.ClientName == "Alex") ;
+
             foreach (var client in query)
+            {
+                Console.WriteLine($"{client.ClientName} {client.ClientPhone}, {client.CarName} {client.CarModel} {client.CarDate} {client.CarColor}");
+            }
+
+            foreach (var client in query2)
             {
                 Console.WriteLine($"{client.ClientName} {client.ClientPhone}, {client.CarName} {client.CarModel} {client.CarDate} {client.CarColor}");
             }

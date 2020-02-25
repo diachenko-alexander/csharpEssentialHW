@@ -4,3 +4,9 @@ C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\HomeWork17\Task2\bin
 C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\HomeWork17\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
 C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\HomeWork17\Task2\obj\Debug\Task2.exe
 C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\HomeWork17\Task2\obj\Debug\Task2.pdb
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork17\Task2\bin\Debug\Task2.exe.config
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork17\Task2\bin\Debug\Task2.exe
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork17\Task2\bin\Debug\Task2.pdb
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork17\Task2\obj\Debug\Task2.exe
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork17\Task2\obj\Debug\Task2.pdb
+C:\Users\alexander.diachenko\Documents\C#\csharpEssentialHW\csharpEssentialHW\HomeWork17\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
