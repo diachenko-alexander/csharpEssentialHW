@@ -1,0 +1,5 @@
+C:\Users\Alex\source\repos\HomeWork18\Task1\bin\Debug\Task1.exe.config
+C:\Users\Alex\source\repos\HomeWork18\Task1\bin\Debug\Task1.exe
+C:\Users\Alex\source\repos\HomeWork18\Task1\bin\Debug\Task1.pdb
+C:\Users\Alex\source\repos\HomeWork18\Task1\obj\Debug\Task1.exe
+C:\Users\Alex\source\repos\HomeWork18\Task1\obj\Debug\Task1.pdb

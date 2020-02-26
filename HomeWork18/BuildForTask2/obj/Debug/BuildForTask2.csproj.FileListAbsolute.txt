@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\HomeWork18\BuildForTask2\bin\Debug\BuildForTask2.exe.config
+C:\Users\Alex\source\repos\HomeWork18\BuildForTask2\bin\Debug\BuildForTask2.exe
+C:\Users\Alex\source\repos\HomeWork18\BuildForTask2\bin\Debug\BuildForTask2.pdb
+C:\Users\Alex\source\repos\HomeWork18\BuildForTask2\obj\Debug\BuildForTask2.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\HomeWork18\BuildForTask2\obj\Debug\BuildForTask2.exe
+C:\Users\Alex\source\repos\HomeWork18\BuildForTask2\obj\Debug\BuildForTask2.pdb
